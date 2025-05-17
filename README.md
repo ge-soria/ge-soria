@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ge-soria
+- 👋 Hi, I’m Gabriel Soria (@ge-soria)
 - 👀 I’m interested in biostatistics.
 - 🌱 I’m currently learning about statistical analyses concerning health issues.
 - 💞️ I’m looking to collaborate on biostatistic projects.
